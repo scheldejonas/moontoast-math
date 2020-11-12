@@ -1,5 +1,8 @@
 {
-    "name": "moontoast/math",
+    "name": "scheldejonas/moontoast-math",
+    "replace": {
+        "moontoast/math": "*"
+    },
     "description": "A mathematics library, providing functionality for large numbers",
     "type": "library",
     "keywords": ["math", "bcmath"],
